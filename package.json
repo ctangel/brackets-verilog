@@ -1,6 +1,6 @@
 {
   "name": "verilog",
-  "title": "Verilog",
+  "title": "Verilog Syntax Highlighting",
   "description": "Adds support for the Verilog in Brackets text editor",
   "homepage": "https://github.com/ctangel/brackets-verilog",
   "author": "Luis Gonzalez-Yante",
