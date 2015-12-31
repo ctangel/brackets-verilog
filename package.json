@@ -1,0 +1,15 @@
+{
+  "name": "verilog",
+  "title": "Verilog",
+  "description": "Adds support for the Verilog in Brackets text editor",
+  "homepage": "https://github.com/ctangel/brackets-verilog",
+  "author": "Luis Gonzalez-Yante",
+  "engines": {
+    "brackets": ">=0.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctangel/brackets-verilog.git"
+  },
+  "version": "1.0.0"
+}
